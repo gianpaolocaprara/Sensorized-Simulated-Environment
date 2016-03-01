@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Gianpaolo Caprara/Downloads/java-json.jar/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gianpaolo Caprara/Desktop/Jersey_Library/aopalliance-repackaged-2.4.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gianpaolo Caprara/Desktop/Jersey_Library/asm-debug-all-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gianpaolo Caprara/Desktop/Jersey_Library/hk2-api-2.4.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gianpaolo Caprara/Desktop/Jersey_Library/hk2-locator-2.4.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gianpaolo Caprara/Desktop/Jersey_Library/hk2-utils-2.4.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gianpaolo Caprara/Desktop/Jersey_Library/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gianpaolo Caprara/Desktop/Jersey_Library/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gianpaolo Caprara/Desktop/Jersey_Library/javax.inject-2.4.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gianpaolo Caprara/Desktop/Jersey_Library/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gianpaolo Caprara/Desktop/Jersey_Library/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gianpaolo Caprara/Desktop/Jersey_Library/jaxb-api-2.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gianpaolo Caprara/Desktop/Jersey_Library/jersey-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gianpaolo Caprara/Desktop/Jersey_Library/jersey-common.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gianpaolo Caprara/Desktop/Jersey_Library/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gianpaolo Caprara/Desktop/Jersey_Library/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gianpaolo Caprara/Desktop/Jersey_Library/jersey-guava-2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gianpaolo Caprara/Desktop/Jersey_Library/jersey-media-jaxb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gianpaolo Caprara/Desktop/Jersey_Library/jersey-server.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gianpaolo Caprara/Desktop/Jersey_Library/org.osgi.core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gianpaolo Caprara/Desktop/Jersey_Library/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gianpaolo Caprara/Desktop/Jersey_Library/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gianpaolo Caprara/Desktop/Jersey_Library/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
